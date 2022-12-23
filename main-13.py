@@ -1,7 +1,7 @@
 import json
 from itertools import groupby
 from operator import itemgetter
-
+# 2 вариант
 with open('data.json', 'r') as f:
     data = json.load(f)
     client_events = groupby(data['events_data'], key=itemgetter('client_id'))

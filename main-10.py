@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter.messagebox import showinfo
 from tkinter.ttk import Combobox
-
+# 8 var
 title = 'task10'
 
 root = Tk()  # создаем корневой объект - окно

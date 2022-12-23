@@ -1,5 +1,5 @@
 from typing import List, Tuple
-
+# 2 вариант
 
 def mod(a: int, b: int) -> int:
     if a < b:

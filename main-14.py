@@ -1,6 +1,6 @@
 import csv
 from typing import Iterable, Callable
-
+# 8 вариант
 
 # Реализация собственной функции фильтрации последовательности элементов по заданному предикату(условию)
 def my_filter(it: Iterable, predicate: Callable[[any], bool]) -> Iterable:

@@ -1,5 +1,5 @@
 from typing import List, Any
-
+# 8 var
 i_name = 'vvod.txt'
 o_name = 'vivod.txt'
 

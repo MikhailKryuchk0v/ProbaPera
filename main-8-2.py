@@ -1,5 +1,5 @@
 from typing import List, Any
-
+# 8 вариант
 
 # Считываем матрицу порядка n из консоли
 def il(n: int) -> List[List[float]]:

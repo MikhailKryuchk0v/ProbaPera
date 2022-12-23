@@ -1,5 +1,5 @@
 from typing import List, Any
-# 8 var
+# 8 вариант
 i_name = 'vvod.txt'
 o_name = 'vivod.txt'
 
